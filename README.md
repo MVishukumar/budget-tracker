@@ -1,5 +1,7 @@
 # Demo React App to track expenses.
 
+The purpose of this simple project is to understand the basics of react application context, reducer and hooks.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Application Output
